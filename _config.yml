@@ -25,7 +25,7 @@ twitter_username: Meatball_132
 github_username:  Meatball132
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
