@@ -99,7 +99,7 @@ And indeed, there are more instances of broken graphics in Zelda. There's a boss
 
 Banjo Kazooie has a big emphasis on puzzles. And to show this, right off the bat, the menu is built with puzzle pieces before being displayed! To do this, the game essentially captures an image of the first frame on the menu and splits it up into textures. These textures are then applied to the puzzle piece. But here's the problem: many emulators will avoid reading the frame-buffer every frame to make the game run faster. You'll see why this is a problem pretty much immediately upon looking at the screenshot from the emulator.
 
-| N64                                                                  | GameCube                                                              |
+| N64                                                                  | Emulator                                                              |
 | :---:                                                                | :---:                                                                 |
 | <img src="/assets/2019-11-24-n64-emu-inaccuracies/7_N64.png"/>       | <img src="/assets/2019-11-24-n64-emu-inaccuracies/7_EMU.png"/>        |
 
