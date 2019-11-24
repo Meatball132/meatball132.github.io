@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Faults of Nintendo 64 Emulation"
-date: 2019-10-07
+date: 2019-11-24
 categories: blog
 ---
 I'm sure you've played a Nintendo 64 videogame on an emulator before. Nintendo's Virtual Console or perhaps some less-official platforms. Whatever you've emulated the N64 on, you've probably thought you were getting a definitive experience. Certainly better than that nasty blurry original N64 with a controller for people with polymelia, right?
