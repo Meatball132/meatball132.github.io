@@ -25,11 +25,7 @@ twitter_username: Meatball_132
 github_username:  Meatball132
 
 # Build settings
-<<<<<<< HEAD
-theme: remote_theme: remote_theme: jekyll/minima
-=======
-theme: jekyll-theme-cayman
->>>>>>> 4f039ba556e7838b11bd3f9b1effc12b80d4997e
+theme: minima
 plugins:
   - jekyll-feed
 
