@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nintendo 64 Emulation"
+title: "The Faults of Nintendo 64 Emulation"
 date: 2019-10-07
 categories: blog
 ---
