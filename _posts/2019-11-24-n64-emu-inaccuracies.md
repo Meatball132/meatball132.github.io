@@ -20,7 +20,7 @@ And that's why N64 emulation is STILL not up-to-snuff with many other consoles. 
 
 
 ### Examples
-Let's take a quick look at *The Legend of Zelda: Majora's Mask*. This game was released for the N64 pretty late in the console's lifespan (2000), and it required a special Expansion Pak, which doubled the avaiable memory on the N64. You bet it used some of the more advanced graphical features the N64 allowed for. The game was released in a collection of Zelda games for the GameCube in 2003, and it is one of the first times Nintendo used an official Nintendo 64 emulator.
+Let's take a quick look at *The Legend of Zelda: Majora's Mask*. This game was released for the N64 pretty late in the console's lifespan (2000), and it required a special Expansion Pak, which doubled the available memory on the N64. You bet it used some of the more advanced graphical features the N64 allowed for. The game was released in a collection of Zelda games for the GameCube in 2003, and it is one of the first times Nintendo used an official Nintendo 64 emulator.
 
 Even Nintendo knows it's a mess. Sorta. When you load up the game it tells you there will be a... "sound irregularity."
 
