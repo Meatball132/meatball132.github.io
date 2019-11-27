@@ -14,7 +14,7 @@ As Wolf3D was beginning development, their previous series, Commander Keen, was 
 <img src="/assets/2019-11-27-doom1993-patched-shape/3_Keen.png"/>  
 </p>
 
-You can see, made out of pipes, a swastika at the top-right of the screenshot. (And developer John Romero's name at the bottom-right. Sneaky.)
+You can see, made out of pipes, a swastika at the top-left of the screenshot. (And developer John Romero's name at the bottom-right. Sneaky.)
 
 Neat little nod to their next project, right? Uh, well, sure, but think of it this way: nobody actually knew about Wolf3D yet. So when players saw it, they either thought "oh, that's an innocent coincidence", or "SUBLIMINAL MESSAGES, THE DEVELOPERS ARE NAZI SYMPATHISERS, AAA". Nonetheless, it made it into the game, and nobody really noticed.
 
